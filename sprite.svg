@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="one" viewBox="0 0 7 11">
+    <path d="M7 1.43662L5.55025 0L0 5.5L5.55025 11L7 9.56338L2.9003 5.5L7 1.43662Z"/>
+  </symbol>
+  <symbol id="two" viewBox="0 0 7 11">
+    <path d="M7 1.43662L5.55025 0L0 5.5L5.55025 11L7 9.56338L2.9003 5.5L7 1.43662Z"/>
+  </symbol>
+  <symbol id="three" viewBox="0 0 7 11">
+    <path d="M7 1.43662L5.55025 0L0 5.5L5.55025 11L7 9.56338L2.9003 5.5L7 1.43662Z"/>
+  </symbol>
+</svg>
